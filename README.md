@@ -69,4 +69,4 @@ Please make sure to update tests as appropriate.
 
 ## 🫡 Credits
 
-This portfolio was inspired by the work of [Piyush Agarwal](https://github.com/piyush-eon). Their creativity and innovation motivated me to build my own version.
+This respository was inspired by the work of [Piyush Agarwal](https://github.com/piyush-eon). Their creativity and innovation motivated me to build my own version.
