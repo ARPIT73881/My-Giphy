@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://giphy-getarpit.netlify.app/" target="_blank"><img src="https://i.ibb.co/0yWkP19/1.png" alt="Main-Cover" border="0"></a>
+   <a href="https://giphy-getarpit.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/2e16673f-912f-4477-aa26-763a09a3147f" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Giphy ](https://giphy-getarpit.netlify.app/)
