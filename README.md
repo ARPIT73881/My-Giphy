@@ -67,6 +67,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## 🫡 Credits
+## <a name="credits"> 🫡 Credits</a>
 
 This respository was inspired by the work of [Piyush Agarwal](https://github.com/piyush-eon). Their creativity and innovation motivated me to build my own version.
